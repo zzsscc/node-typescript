@@ -1,0 +1,9 @@
+{
+  "name": "node-typescript",
+  "version": "1.0.0",
+  "description": "typescript to nodejs",
+  "main": "index.js",
+  "repository": "https://github.com/zzsscc/node-typescript.git",
+  "author": "zhanshichao",
+  "license": "MIT"
+}
