@@ -1,6 +1,6 @@
 import path from 'path'
 
-export default function annualPageCheck(req, res, next) {
+export default function checkClient(req, res, next) {
   const _path = req.path
 
   if (/^\/api/i.test(_path)) {
