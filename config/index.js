@@ -31,7 +31,7 @@ const getPort = () => {
 
 const getServerName = () => {
   return {
-    localdev: `http://${localIp()[0]}:13960`, // Note: 本地test使用
+    localdev: `http://${localIp()[0]}:3960`, // Note: 本地test使用
     development: '',
     aliyunqa: 'https://express-rider-bff-qa.dwbops.com',
     aliyunqa1: 'https://express-rider-bff-qa1.dwbops.com',
